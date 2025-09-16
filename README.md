@@ -4,12 +4,7 @@
 
 <div align="center">
   <h3>Web Developer</h3>
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proficient in <strong>React</strong> and <strong>Next.js</strong>&nbsp;✔</p>
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fluent in both <strong>French</strong> and <strong>English</strong>&nbsp;✔</p>
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check my links below&nbsp;👇</p>
-  📅 <a href="https://calendly.com/fvukelic/meeting">Schedule a meeting</a>&nbsp;&nbsp;&nbsp;<br/>
-  📧 <a href="Vedanttrivedi87@gmail.com">Send me an Email</a>&nbsp;&nbsp;&nbsp;<br />
-
+  
   
 </div><br /><br />
 
